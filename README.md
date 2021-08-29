@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning responsive web development
 - 💞️ I’m looking to collaborate on user experience design and web development
 - 📫 Reach me via email: uyenquynh21@gmail.com
-This is my very first responsive web design. You can know more about me through this website. Let's check it out. 
+ 
 Your support is my motivation to try my best everyday. 
 <html>
 
