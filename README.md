@@ -2,7 +2,7 @@
 - 👀 I’m interested in travel, music and photography
 - 🌱 I’m currently learning responsive web development
 - 💞️ I’m looking to collaborate on user experience design and web development
-- 📫 Reach me via email: uyenquynh21@gmail.com
+- 📫 Reach me via email: quynhtran.kath@gmail.com
  
 Your support is my motivation to try my best everyday. 
 <html>
