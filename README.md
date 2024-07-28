@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @quynhtran2108
-- 👀 I’m interested in travel, music and photography
-- 🌱 I’m currently learning responsive web development
-- 💞️ I’m looking to collaborate on user experience design and web development
+- 👀 I’m interested in usualising data sciences to make the UX Design decision
+- 💞️ I’m looking to collaborate on user experience design 
 - 📫 Reach me via email: quynhtran.kath@gmail.com
  
 Your support is my motivation to try my best everyday. 
